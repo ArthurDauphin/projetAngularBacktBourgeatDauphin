@@ -1,13 +1,13 @@
 # Projet Angular Dauphin Bourgeat
 ## Liens vers les GitHub
 
-FrontEnd : https://github.com/ArthurDauphin/projetAngularFrontBourgeatDauphin
-BackEnd : https://github.com/ArthurDauphin/projetAngularBacktBourgeatDauphin
+* FrontEnd : https://github.com/ArthurDauphin/projetAngularFrontBourgeatDauphin
+* BackEnd : https://github.com/ArthurDauphin/projetAngularBacktBourgeatDauphin
 
 ## Liens vers les sites render.com
 
-FrontEnd : https://app-assignment-frontend.onrender.com
-BackEnd : https://app-assignment-backend.onrender.com
+* FrontEnd : https://app-assignment-frontend.onrender.com
+* BackEnd : https://app-assignment-backend.onrender.com
 
 ## Travail effectué
 
