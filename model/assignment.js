@@ -9,8 +9,9 @@ let AssignmentSchema = Schema({
     nom: String,
     rendu: Boolean,
     auteur: String,
-    matière: String,
-    photo: String,
+    matiere: String,
+    photoProf: String,
+    photoMatiere: String,
     note: Number,
     remarques: String
 });
